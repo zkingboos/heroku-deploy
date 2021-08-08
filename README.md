@@ -3,7 +3,7 @@
 </div> 
 
 <br/>
-Learn how to deploy your applications to heroku platform with base example with procfile worker and web to dyno types
+Learn how to deploy your applications to heroku platform with base example procfile worker and web dyno types
 
 ## Dyno types
 * [Web](https://github.com/zkingboos/heroku-deploy/tree/web-deploy) 
